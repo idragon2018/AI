@@ -1,0 +1,103 @@
+http://chromecj.com/
+https://www.crx4chrome.com/
+http://chrome-extension-downloader.com/
+
+——————————————————————————————————
+
+I
++ Cisco Webex Extension 1.3.0
+  Full download JS/CSS/HTML 2.1.0
+  Google学术搜索按钮 1.5
+  Search the current site（站内搜索）7.5
+  Tampermonkey 4.6
+  Video DownloaderHelper 7.3.5.0
+  暴力猴 2.9.5
+  灵格斯屏幕取词扩展 3.2
+  百度云离线下载 1.2   +网盘
+  草榴1024小助手 1.1.7
+  豆瓣爱问来搞基 1.2
+  Privacy Palette 0.4
+-
+
+
+X
++ 
+  crxMouse Chrome Gestures 2.7.9
+  Extension Downloader 4.3
+  FaWave（发微） 2014.5.16.1
+  Flavr 自定义谷歌背景和新标签页 9.4.2
+  FVD Downloader 6.5.1
+  如意淘：同款比价，价格曲线，降价提... 3.6.0.27
+  迅雷、QQ旋风-链接自动转换 5.0.5
+  Postman 5.5.3
+-
+
+——————————————————————————————————
+
+PLUS
+
+Forest：保持专注，用心生活
+https://chrome.google.com/webstore/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk
+
+Chrome Toolbox
+Bookmark Checker
+
+AutoPagerize
+Kami - PDF and Document Markup
+Vimium
+Wappalyzer
+Search by Image
+Toggl Button: Productivity & Time Tracker
+Sexy Undo Close Tab
+RSS Subscription Extension
+EagleGet Free Downloader
+Surfingkeys
+Unblock Boundary
+SimpleUndoClose
+Multi-highlight
+Better History
+Recent History
+GitHub Hovercard
+YAAW for Chrome
+uBlock Origin
+uBlock Plus Adblocker
+uBlock Adblocker Plus
+TED Video Download
+SmoothScroll
+Webpage Screenshot
+网页截图 - Screenshot Extensions
+网页截图:注释&录屏(Awesome Screenshot)
+Classic Cache Killer
+Clear Cache
+Save to Pocket
+Direct APK Downloader
+Diigo Web Collector - Capture and Annotate
+Visualping
+关灯看视频
+Share Extensions
+Stylish
+眼不见心不烦（新浪微博）
+TinEye Reverse Image Search
+RevEye Reverse Image Search
+Imagus
+Markdown Here
+Eye Dropper
+网盘快搜
+广告终结者
+Evernote Web Clipper
+有道云笔记网页剪报
+Checker Plus for Gmail
+Fatkun图片批量下载
+Regex Search
+知乎
+Firebug Lite for Google Chrome
+Code Cola
+User-Agent Switcher for Google Chrome
+Web Developer
+Awesome Autocomplete for GitHub
+Google Arts & Culture
+MarmoUI
+Click＆Clean
+BuiltWith Technology Profiler
+goo.gl URL Shortener (Unofficial)
+Recent Tabs
