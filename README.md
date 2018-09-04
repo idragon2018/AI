@@ -46,4 +46,6 @@ Nearest Neighbours
 [conda](https://anaconda.org/)  
 [Anaconda](https://www.anaconda.com/)
 
-——————————————————————————————————————————
+—————————————————————————————————————————
+
+[blood platelet](https://github.com/idragon2018/AI/blob/master/PLT.gif)
