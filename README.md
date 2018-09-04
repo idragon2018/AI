@@ -48,4 +48,4 @@ Nearest Neighbours
 
 —————————————————————————————————————————
 
-[blood platelet](https://github.com/idragon2018/AI/blob/master/PLT.gif)
+![AI](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/MSR-AI_Brain-Hero_sm.jpg)
