@@ -2,21 +2,21 @@
 Artificial Intelligence
 
 ——————————————————————————————————————————
-# Top 10 Machine Learning Algorithms
+## Top 10 Machine Learning Algorithms
 
-Naive Bayes Classifier Algorithm
-K Means Clustering Algorithm
-Support Vector Machine Algorithm
-Apriori Algorithm
-Linear Regression
-Logistic Regression
-Artificial Neural Networks
-Random Forests
-Decision Trees
-Nearest Neighbours
+Naive Bayes Classifier Algorithm  
+K Means Clustering Algorithm  
+Support Vector Machine Algorithm  
+Apriori Algorithm  
+Linear Regression  
+Logistic Regression  
+Artificial Neural Networks  
+Random Forests  
+Decision Trees  
+Nearest Neighbours  
 
 ——————————————————————————————————————————
-# Python Package
+## Python Package
 
 NumPy：http://www.numpy.org/
 SciPy：https://scipy.org/scipylib/
