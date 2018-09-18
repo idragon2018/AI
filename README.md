@@ -1,7 +1,6 @@
 # AI
 Artificial Intelligence
 
-——————————————————————————————————————————
 ## Top 10 Machine Learning Algorithms
 
 Naive Bayes Classifier Algorithm  
@@ -15,7 +14,6 @@ Random Forests
 Decision Trees  
 Nearest Neighbours  
 
-——————————————————————————————————————————
 ## Python Package
 
 [NumPy](http://www.numpy.org/)  
@@ -46,6 +44,5 @@ Nearest Neighbours
 [conda](https://anaconda.org/)  
 [Anaconda](https://www.anaconda.com/)
 
-—————————————————————————————————————————
 
 ![AI](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/MSR-AI_Brain-Hero_sm.jpg)
