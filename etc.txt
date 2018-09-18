@@ -1,9 +1,9 @@
 
 Data Science Interviews Exposed
-4.Augmented: Life in the Smart Lane
+4. Augmented: Life in the Smart Lane
 Statistical Inference An Integrated Approach
 Parallel Computing for Data Science With Examples in R, C++ and CUDA
-7.The Emotion Machine:Commonsense Thinking,Artificial Intelligence,and the Future of the Human Mind
+7. The Emotion Machine:Commonsense Thinking,Artificial Intelligence,and the Future of the Human Mind
 
        .....,....................................................................,,,...
        ...,,,......,.............................................................,,,,,.
