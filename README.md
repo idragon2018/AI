@@ -41,7 +41,7 @@ Nearest Neighbours
 [Gensim](https://radimrehurek.com/gensim/)  
 [Scrapy](https://scrapy.org/)  
 
-[conda](https://anaconda.org/)  
+[Miniconda](https://conda.io/miniconda.html)  
 [Anaconda](https://www.anaconda.com/)
 
 
